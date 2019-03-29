@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=!
-game=Break | !play
+owner=534776857506086933
+prefix=1
+game=gd bot say 1help to help
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTU4Njk0MjU1Njc4MTkzNjg0.XJ6tpw.ySXp5aqkjdoa06n_ySCo5Fm5bxQ
